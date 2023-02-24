@@ -70,5 +70,9 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 
 ## License
 
+
 Nest is [MIT licensed](LICENSE).
 # Ecom_backend
+
+- /user/dashboard -> for getting all the user data
+- /user/:id -> for getting specific id data
