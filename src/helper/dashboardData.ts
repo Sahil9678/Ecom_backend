@@ -1,5 +1,4 @@
 export const dashboardData: any = [
-
     {
         "id": 10341699,
         "name": "LOCOMOTIVE Men Black & Grey Slim Fit Checked Casual Shirt",
